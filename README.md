@@ -4,7 +4,10 @@
 
 ## Project Graduation : AZAP - As Zemovie As Possible
 
-Two applications : Front-End (react-azap) and Back-End (api-azap).
+Two applications : Front-End (react-azap) and Back-End (api-azap). These applications are still under development.
+
+- [react-azap](https://github.com/Estelle-K/react-azap)
+- [api-azap](https://github.com/Estelle-K/api-azap)
 
 At a time when we consume more and more films thanks to
 multiple streaming services made available to us in the form of
